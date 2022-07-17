@@ -15,7 +15,7 @@ public class DigitTest1 {
 				if (j < i) {
 					System.out.printf("%3s", " ");
 				} else {
-					System.out.prinf("%3d", ++count)
+					System.out.printf("%3d", ++count);
 				}
 			}
 			System.out.println();
