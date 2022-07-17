@@ -7,7 +7,7 @@ public class DigitTest1 {
 
 	public static void main(String[] args) {
 		//코드를 작성하세요.
-		
+		//test
 	}
 
 }
