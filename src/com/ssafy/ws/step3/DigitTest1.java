@@ -22,4 +22,4 @@ public class DigitTest1 {
 		}
 	}
 
-}
+} 
