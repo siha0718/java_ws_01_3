@@ -1,4 +1,4 @@
-package com.ssafy.ws01.step3;
+package com.ssafy.ws.step3;
 
 public class DigitTest1 {
 	public static void main(String[] args) {
