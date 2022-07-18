@@ -42,7 +42,6 @@ public class GameTest {
 
 					}
 					else {
-						System.out.println(computer);
 						System.out.println("졌습니다!!!");
 						com_count++;
 					}
